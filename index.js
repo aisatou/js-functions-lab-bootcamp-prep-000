@@ -3,5 +3,5 @@ function happyHolidays() {
 }
 
 function happyHolidaysToAbdoul() {
-  
+  return 'Happy holidays!';
 }
