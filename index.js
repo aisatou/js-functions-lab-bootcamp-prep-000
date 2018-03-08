@@ -6,5 +6,5 @@ function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`;
 }
 
-console.log("Abdoul")
-happyHolidaysTo();
+function happyHolidayTo
+return 
